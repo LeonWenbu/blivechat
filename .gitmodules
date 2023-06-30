@@ -1,4 +1,0 @@
-[submodule "blivedm"]
-	path = blivedm
-	url = https://github.com/LeonWenbu/blivedm.git
-	branch  = dev
